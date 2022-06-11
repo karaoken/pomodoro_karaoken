@@ -102,5 +102,5 @@ check_mark.grid(column=1, row=3)
 
 # comment
 print('Hello')
-print('Worl')
+print('World')
 window.mainloop()
